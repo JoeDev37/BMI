@@ -1,0 +1,31 @@
+
+html, body {
+    width: 99%;
+    height: 99%;
+    background-color: blue;
+}
+
+body {
+    
+    color: #cdd6f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: red;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+hr {
+    height: 30px;
+    background-color: black;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
